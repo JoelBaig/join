@@ -20,7 +20,7 @@ Join Preview
 
 ## Screenshots
 
-### Board
+### Summary
 ![Board](./screenshots/join_board.png)
 
 ### Tasks
