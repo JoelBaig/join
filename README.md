@@ -26,7 +26,7 @@ Join Preview
 ### Tasks
 ![Tasks](./screenshots/join_tasks.png)
 
-### ToDos
+### Board
 ![Todo](./screenshots/join_todo.png)
 
 ### Contacts
