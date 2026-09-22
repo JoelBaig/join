@@ -160,7 +160,7 @@ Join is fully responsive and optimized for:
 
 Clone the repository:
 
-bash git clone https://github.com/JoelBaig/join-kanban.git
+bash git clone https://github.com/JoelBaig/join
 
 Navigate into the project folder:
 
